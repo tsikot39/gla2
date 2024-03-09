@@ -61,3 +61,8 @@ select {
   font-weight: bold;
   color: #007bff;
 }
+
+.product img {
+  max-width: 100px; /* Adjust this value as needed */
+  height: auto;
+}
